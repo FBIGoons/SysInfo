@@ -1,0 +1,4 @@
+winshell
+pypiwin32
+colorama
+requests
