@@ -17,7 +17,7 @@ import shutil
 
 
 os.system("cls")
-os.system("title SysInfo ^| Showing System Information")
+os.system("title SysInfo ^| Showing System Information ^| By: @FbiGoons")
 
 # Get Local IP
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
