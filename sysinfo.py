@@ -3,7 +3,6 @@ import socket
 import os
 import colorama 
 import requests
-import platform
 import shutil
 import sys
 import time
