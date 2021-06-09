@@ -6,4 +6,4 @@ A Python Script To Show System Info And Clean Unnecessary Files + Directories
 * Then just run the python script in either cmd or double-click
 
 # Image
-![SysInfo](https://imgur.com/a/xbcygwh)
+![SysInfo](https://i.imgur.com/KbeUYOg.png)
